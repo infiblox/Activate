@@ -12,6 +12,6 @@ llm_model = ChatOpenAI(openai_api_base=OPENAI_API_BASE, model=MODEL)
 
 prompt = PromptTemplate.from_template("""Translate the text {text} from English to Spanish""")
 chain = prompt | llm_model | StrOutputParser()
-result = chain.invoke(input="Good Morning!")
+result = chain.invoke(input="How are you?")
 
 print("Response  : \n\n" , result)
