@@ -18,22 +18,24 @@ Each lab includes:
         Run prompts asking for current events, facts, or data.
 ```
 💬 Sample Prompts:
-        “Top 10 universities in the US”
-        “Latest news on climate change”
+- “Top 10 universities in the US”
+- “Latest news on climate change”
 
 ## Lab 2: Current Time Agent
-🎯 Goal: Build an agent that returns the current time or time in a specific timezone.
-🛠️ What to Build: Custom tool that uses datetime.now() and pytz.
-🔧 Instructions:
+- 🎯 Goal: Build an agent that returns the current time or time in a specific timezone.
+- 🛠️ What to Build: Custom tool that uses datetime.now() and pytz.
+- 🔧 Instructions:
+```
         Define a tool class with a method that returns the current time.
         Use datetime.now() and format the output.
         Register the tool with a meaningful name like get_current_time.
         Mention time format (e.g., YYYY-MM-DD HH:MM:SS) in the tool description.
-
+```
 💬 Sample Prompts:
-        “What time is it now?”
-        “Give me the current time in Tokyo”
-
+```
+- “What time is it now?”
+-  “Give me the current time in Tokyo”
+```
 ## Lab 3: Joke Teller Agent
 🎯 Goal: Deliver a random joke for entertainment.
 🛠️ What to Build: A static tool returning a random joke from a list.
