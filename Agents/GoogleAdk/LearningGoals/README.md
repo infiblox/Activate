@@ -2,10 +2,10 @@
 Few Labs for additional learning. 
 
 Each lab includes:
-🎯 Goal
-🛠️ What to Build
-🔧 Instructions to Define
-💬 Sample Prompts to Test
+- 🎯 Goal
+- 🛠️ What to Build
+- 🔧 Instructions to Define
+- 💬 Sample Prompts to Test
 
 ## Lab 1: Google Search Agent
 🎯 Goal: Enable an agent to fetch web search results for any query.
