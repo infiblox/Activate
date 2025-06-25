@@ -8,13 +8,13 @@ Each lab includes:
 - 💬 Sample Prompts to Test
 
 ## Lab 1: Google Search Agent
-🎯 Goal: Enable an agent to fetch web search results for any query.
-🛠️ What to Build: Use the built-in google_search tool.
-🔧 Instructions:
-        Import google_search from google.adk.tools.
-        Register it with an agent using the tools argument.
-        Write the agent description indicating it uses Google search.
-        Run prompts asking for current events, facts, or data.
+- 🎯 Goal: Enable an agent to fetch web search results for any query.
+- 🛠️ What to Build: Use the built-in google_search tool.
+- 🔧 Instructions:
+-       Import google_search from google.adk.tools.
+-       Register it with an agent using the tools argument.
+-       Write the agent description indicating it uses Google search.
+-       Run prompts asking for current events, facts, or data.
 
 💬 Sample Prompts:
         “Top 10 universities in the US”
