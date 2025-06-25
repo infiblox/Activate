@@ -1,0 +1,9 @@
+google-adk
+yfinance
+psutil
+litellm
+google-generativeai
+python-dotenv
+langchain-openai
+langchain_ollama
+jupyterlab
