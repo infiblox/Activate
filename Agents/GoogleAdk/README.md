@@ -28,11 +28,11 @@ Once set up, this single environment will work for all examples in the repositor
 
 ### Setting Up API Keys
 
-1. Create an account in Google Cloud - https://cloud.google.com/?hl=en   (Sign in with your Google account if not signed in)
+1. Create an account in Google Cloud - Go to https://cloud.google.com/?hl=en   (Sign in with your Google account if not signed in)
     - Go to the Console menu (top right).
     - Create a new project :
       Click -> "Select a project" which opens a popup.  Give a Project Name ex: Active.
-2. Create an API key - https://aistudio.google.com/apikey
+2. Create an API key - Go to https://aistudio.google.com/apikey
         - Click on "Create API Key"
         - Do Not select any popup optins - "Use Google AI studio" or "Build with Gemini API"
         - Accept the Terms of Service and Privacy Policy.
