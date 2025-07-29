@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MockApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+600322b275f8dd8cf833ab5a583a4dc3925ce893")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d24d2b8712d279f76f7726eea486b0c65125df44")]
 [assembly: System.Reflection.AssemblyProductAttribute("MockApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MockApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
