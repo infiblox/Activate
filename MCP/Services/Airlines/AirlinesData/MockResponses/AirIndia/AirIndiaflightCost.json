@@ -1,0 +1,65 @@
+[
+  {
+    "flightId": "FL12345",
+    "flightName": "AirIndia",
+    "flightcost": 299.99
+  },
+  {
+    "flightId": "FL67890",
+    "flightName": "AirIndia",
+    "flightcost": 199.99
+
+  },
+  {
+    "flightId": "FL54321",
+    "flightName": "AirIndia",
+    "flightcost": 149.99
+  },
+  {
+    "flightId": "FL98765",
+    "flightName": "AirIndia",
+    "flightcost": 179.99
+  },
+  {
+    "flightId": "FL24680",
+    "flightName": "AirIndia",
+    "flightcost": 220.00
+  },
+  {
+    "flightId": "FL13579",
+    "flightName": "AirIndia",
+    "flightcost": 310.50
+  },
+  {
+    "flightId": "FL86420",
+    "flightName": "AirIndia",
+    "flightcost": 275.75
+  },
+  {
+    "flightId": "FL97531",
+    "flightName": "AirIndia",
+    "flightcost": 185.00
+  },
+  {
+    "flightId": "FL11122",
+    "flightName": "AirIndia",
+    "flightcost": 230.00
+  },
+  {
+    "flightId": "FL33344",
+    "flightName": "AirIndia",
+    "flightcost": 150.00
+  },
+  {
+    "flightId": "FL55566",
+    "flightName": "AirIndia",
+    "flightcost": 290.00
+  },
+  {
+    "flightId": "FL77788",
+    "flightName": "AirIndia",
+    "flightcost": 320.00
+  }
+
+]
+  

@@ -1,0 +1,5 @@
+fastmcp
+mcp
+python-dotenv
+IPython
+fastapi

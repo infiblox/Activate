@@ -1,0 +1,51 @@
+[
+  {
+    "flightId": "FL12345",
+    "flightavailable": true
+  },
+  {
+    "flightId": "FL67890",
+    "flightavailable": true
+  },
+  {
+    "flightId": "FL54321",
+    "flightavailable": true
+  },
+  {
+    "flightId": "FL98765",
+    "flightavailable": true
+  },
+  {
+    "flightId": "FL24680",
+    "flightavailable": true
+  },
+  {
+    "flightId": "FL13579",
+    "flightavailable": true
+  },
+  {
+    "flightId": "FL86420",
+    "flightavailable": true
+  },
+  {
+    "flightId": "FL97531",
+    "flightavailable": true
+  },
+  {
+    "flightId": "FL11122",
+    "flightavailable": true
+  },
+  {
+    "flightId": "FL33344",
+    "flightavailable": false
+  },
+  {
+    "flightId": "FL55566",
+    "flightavailable": false
+  },
+  {
+    "flightId": "FL77788",
+    "flightavailable": true
+  },
+
+]

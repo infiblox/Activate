@@ -1,0 +1,131 @@
+//Search Flights and fligt costs for a mock airline data API
+[
+  {
+    "flightId": "FL12345",
+    "airline": "Airways International",
+    "departure": {
+      "airport": "JFK International Airport",
+      "time": "2025-10-01T14:30:00Z"
+    },
+    "arrival": {
+      "airport": "LAX International Airport",
+      "time": "2025-10-01T17:00:00Z"
+    },
+    "duration": "5h 30m",
+    "price": 299.99,
+    "stops": 1,
+    "aircraftType": "Boeing 737"
+  },
+  {
+    "flightId": "FL67890",
+    "airline": "Sky High Airlines",
+    "departure": {
+      "airport": "LAX International Airport",
+      "time": "2025-10-01T18:00:00Z"
+    },
+    "arrival": {
+      "airport": "ORD International Airport",
+      "time": "2025-10-01T23:00:00Z"
+    },
+    "duration": "4h 0m",
+    "price": 199.99,
+    "stops": 0,
+    "aircraftType": "Airbus A320"
+  },
+  {
+    "flightId": "FL54321",
+    "airline": "Global Wings",
+    "departure": {
+      "airport": "ORD International Airport",
+      "time": "2025-10-02T08:00:00Z"
+    },
+    "arrival": {
+      "airport": "ATL International Airport",
+      "time": "2025-10-02T10:30:00Z"
+    },
+    "duration": "2h 30m",
+    "price": 149.99,
+    "stops": 0,
+    "aircraftType": "Boeing 777"
+  },
+  {
+    "flightId": "FL98765",
+    "airline": "Jet Stream Airlines",
+    "departure": {
+      "airport": "ATL International Airport",
+      "time": "2025-10-02T12:00:00Z"
+    },
+    "arrival": {
+      "airport": "MIA International Airport",
+      "time": "2025-10-02T14:30:00Z"
+    },
+    "duration": "2h 30m",
+    "price": 179.99,
+    "stops": 0,
+    "aircraftType": "Boeing 787"
+  },
+  {
+    "flightId": "FL11223",
+    "airline": "Pacific Air Lines",
+    "departure": {
+      "airport": "MIA International Airport",
+      "time": "2025-10-02T16:00:00Z"
+    },
+    "arrival": {
+      "airport": "SEA International Airport",
+      "time": "2025-10-02T20:00:00Z"
+    },
+    "duration": "6h 0m",
+    "price": 349.99,
+    "stops": 1,
+    "aircraftType": "Boeing 767"
+  },
+  {
+    "flightId": "FL33445",
+    "airline": "Northern Skies Airlines",
+    "departure": {
+      "airport": "SEA International Airport",
+      "time": "2025-10-02T21:00:00Z"
+    },
+    "arrival": {
+      "airport": "DEN International Airport",
+      "time": "2025-10-02T23:30:00Z"
+    },
+    "duration": "2h 30m",
+    "price": 129.99,
+    "stops": 0,
+    "aircraftType": "Airbus A330"
+  },
+  {
+    "flightId": "FL55667",
+    "airline": "Eastern Wings",
+    "departure": {
+      "airport": "DEN International Airport",
+      "time": "2025-10-03T01:00:00Z"
+    },
+    "arrival": {
+      "airport": "BOS International Airport",
+      "time": "2025-10-03T05:00:00Z"
+    },
+    "duration": "4h 0m",
+    "price": 219.99,
+    "stops": 0,
+    "aircraftType": "Boeing 747"
+  },
+  {
+    "flightId": "FL77889",
+    "airline": "Southern Breeze Airlines",
+    "departure": {
+      "airport": "BOS International Airport",
+      "time": "2025-10-03T07:00:00Z"
+    },
+    "arrival": {
+      "airport": "PHL International Airport",
+      "time": "2025-10-03T09:00:00Z"
+    },
+    "duration": "2h 0m",
+    "price": 99.99,
+    "stops": 0,
+    "aircraftType": "Airbus A350"
+  }
+]

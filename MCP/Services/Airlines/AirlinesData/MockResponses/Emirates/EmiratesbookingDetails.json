@@ -1,0 +1,52 @@
+[
+  {
+    "bookingId": "12345-abcde-67890-fghij",
+    "bookingStatus": "Confirmed",
+    "bookingDate": "2025-10-01T12:00:00Z",
+    "passengerName": "John Doe",
+    "flightNumber": "AA1234",
+    "flightClass": "Economy",
+    "departureDate": "2025-10-15T10:00:00Z",
+    "arrivalDate": "2025-10-15T12:00:00Z"
+  }, 
+  {
+    "bookingId": "54321-zyxwv-09876-lmnop",
+    "bookingStatus": "Pending",
+    "bookingDate": "2025-10-02T14:30:00Z",
+    "passengerName": "Jane Smith",
+    "flightNumber": "BA5678",
+    "flightClass": "Business",
+    "departureDate": "2025-10-20T15:00:00Z",
+    "arrivalDate": "2025-10-20T17:30:00Z "
+  },
+  {
+    "bookingId": "67890-pqrst-12345-uvwxy",
+    "bookingStatus": "Cancelled",
+    "bookingDate": "2025-10-03T09:00:00Z",
+    "passengerName": "Alice Johnson",
+    "flightNumber": "CA9101",
+    "flightClass": "First Class",
+    "departureDate": "2025-10-25T08:00:00Z",
+    "arrivalDate" : "2025-10-25T10:30:00Z"
+  },
+  {
+    "bookingId": "09876-lmnop-54321-zyxwv",
+    "bookingStatus": "Confirmed",
+    "bookingDate": "2025-10-04T11:15:00Z",
+    "passengerName": "Bob Brown",
+    "flightNumber": "DA2345",
+    "flightClass": "Economy",
+    "departureDate": "2025-10-30T13:00:00Z ",
+    "arrivalDate": "2025-10-30T15:30:00Z "
+  },
+  {
+    "bookingId": "11223-abcd-44556-efghh",
+    "bookingStatus": "Pending",
+    "bookingDate": "2025-10-05T16:45:00Z",
+    "passengerName": "Charlie Davis",
+    "flightNumber": "EA6789",
+    "flightClass": "Business",
+    "departureDate": "2025-11-01T09:00:00Z",
+    "arrivalDate": "2025-11-01T11:30:00Z"
+  }
+]
