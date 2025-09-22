@@ -1,0 +1,14 @@
+google-adk
+yfinance
+psutil
+litellm
+google-generativeai
+python-dotenv
+langchain-openai
+langchain_ollama
+jupyterlab
+beautifulsoup4
+html2text
+mcp[cli]
+requests
+mcp-use
