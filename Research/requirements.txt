@@ -1,0 +1,9 @@
+backoff
+faiss-cpu
+litellm
+numpy
+pandas
+sentence-transformers
+tiktoken
+tqdm
+pydantic
